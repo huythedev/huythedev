@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @huythedev</a></h1>
+<h1 align="center">Hi 👋, I'm [huythedev](https://github.com/huythedev)</a></h1>
 <h3 align="center">A middle school student at Quang Nam &#127483;&#127475</h3>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=huythedev%2Fhuythedev&label=Visitors&countColor=%23263759)
