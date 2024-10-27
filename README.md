@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/huythedev">huythedev</a></h1>
+<h1 align="center">Hi 👋, I'm Huy</a></h1>
 <h3 align="center">A high school student at Quang Nam &#127483;&#127475</h3>
 
 <a target="_blank" align="center">
@@ -19,11 +19,9 @@
 	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/22808771/huythedev?tab=profile">
 		<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="mailto:huythedev@gmail.com">
-		<img src="https://huythedev.me/profile_files/email.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/huythedev">
-		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://reddit.com/user/huythedev">
-		<img src="https://huythedev.me/profile_files/reddit.png" ></a>
+		<img src="https://img.icons8.com/?size=100&id=CXYJjRfKlwI9&format=png&color=000000"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/929735117117730828">
+		<img src="https://img.icons8.com/?size=100&id=kiFiZYleutqs&format=png&color=000000" ></a>
       </div>
 
 </p>
