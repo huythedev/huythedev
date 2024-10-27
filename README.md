@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/huythedev">huythedev</a></h1>
-<h3 align="center">A middle school student at Quang Nam &#127483;&#127475</h3>
+<h3 align="center">A high school student at Quang Nam &#127483;&#127475</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
