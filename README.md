@@ -17,10 +17,10 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;" target="_blank" href="mailto:huythedev@gmail.com">
-    		<img src="https://img.icons8.com/?size=32&id=CXYJjRfKlwI9&format=png&color=000000">
+    		<img src="https://img.icons8.com/?size=48&id=CXYJjRfKlwI9&format=png&color=000000">
 	</a>
 	<a style="margin-left: 10px;" target="_blank" href="https://discord.com/users/929735117117730828">
-    		<img src="https://img.icons8.com/?size=32&id=kiFiZYleutqs&format=png&color=000000">
+    		<img src="https://img.icons8.com/?size=48&id=kiFiZYleutqs&format=png&color=000000">
         </a>
       </div>
 
