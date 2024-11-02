@@ -9,7 +9,7 @@
 
 - 🏫 Studying at Nguyen Binh Khiem Specialized High school
 
-- 📫 Reach me at [huythedev@gmail.com](mailto:huythedev@gmail.com)
+- 📫 Reach me at [perrythedev.09@gmail.com](mailto:perrythedev.09@gmail.com)
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
