@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=1200&height=100&lines=Hello%2C+World!;Welcome+to+my+GitHub+Profile;I'm+currently+a+Student+at+Nguyen+Binh+Khiem+Specialized+High+School" alt="Typing SVG" />
-</div>
-
 <h2 align="center">💫 About Me</h2>
 <p align="center">
   Passionate developer focused on creating impactful solutions. I love exploring new technologies and listening to music.
