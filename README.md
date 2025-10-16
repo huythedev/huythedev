@@ -23,7 +23,7 @@
 <h2 align="center">📫 Connect With Me</h2>
 <div align="center">
   <a href="mailto:contact@huythedev.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35" />
+    <img src="https://img.shields.io/badge/email-2E97F7.svg?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" height="35" />
   </a>
   <a href="https://instagram.com/huythedev" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="35" />
