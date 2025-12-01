@@ -1,4 +1,6 @@
 ![Metrics](./github-metrics.svg)
-<p align="left">
-  <img src="https://api.visitorbadge.io/api/visitors?path=huythedev%2Fhuythedev&label=VISITORS&labelColor=000000&countColor=00eaff&style=for-the-badge&labelStyle=upper" />
+<p align="center">
+  <b>👁️ Profile Views</b>&nbsp;&nbsp;
+  <img src="https://api.visitorbadge.io/api/visitors?path=huythedev%2Fhuythedev&label=&labelColor=0d1117&countColor=58a6ff&style=for-the-badge" />
 </p>
+
