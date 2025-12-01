@@ -5,6 +5,11 @@ on:
     - cron: "0 * * * *"   # every hour (adjust as you want)
   workflow_dispatch:
 
+permissions:
+  contents: write
+  actions: read
+  pull-requests: read
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
