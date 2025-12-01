@@ -22,7 +22,8 @@ jobs:
 
           # Profile target
           user: huythedev
-          template: large
+          template: classic
+          config_display: large
           config_timezone: Asia/Ho_Chi_Minh
 
           # Show base sections
