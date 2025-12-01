@@ -1,0 +1,17 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs daily at midnight UTC (adjust if you like)
+  workflow_dispatch:     # also allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Embed metrics
+        uses: lowlighter/metrics-embed@latest
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # optionally configure plugins / display options
